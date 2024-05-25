@@ -1,0 +1,6 @@
+docker-workflow
+docker-plugin
+docker-build-step
+docker-slaves
+docker-commons
+docker-java-api
